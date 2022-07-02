@@ -71,6 +71,8 @@ margin-bottom: 40px;}
 	background-color: #C499BA;
 	}
 
+.bg-gold{background-image: url(../imagen/foto/dorado.jpg);}
+
 .bg-grey{
 	background-color: grey;
 	}
@@ -178,6 +180,7 @@ headeranimacion{
 }
 .margin {
 margin-right: 15px;
+
 }
 
 .boxy {
@@ -200,3 +203,11 @@ color: #4D4C7D;}
 		width: auto;
 	}
   
+   .center{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+
+   }
+
+  .logo{width: 250px;}
