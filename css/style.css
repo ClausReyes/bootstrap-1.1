@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.goo1gleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Splash&display=swap');
 
 *{
 	font-family: 'Roboto Condensed', sans-serif; 
@@ -28,8 +30,10 @@ nav ul li{
 font-size: larger;
  }
 
-
-
+.font-footer{
+  font-family: 'Splash', cursive;
+  font-size: 3rem;
+}
 
 
 
@@ -204,9 +208,10 @@ color: #4D4C7D;}
 	}
   
    .center{
-    margin: 20px;
+    padding: 25px;
     display: flex;
     justify-content: center;
+    height: ;
 
    }
 
